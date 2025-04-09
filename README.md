@@ -2,16 +2,18 @@
 
 Simple React Native example of how to use Access inside a Webview
 
-### Run
+### Install
 
-`yarn install && yarn react-native link`
+`yarn install`
+
+### Run
 
 #### iOS
 
-`cd ios && pod install`
+`npx pod-install`
 
-`yarn react-native run-ios`
+`yarn ios`
 
 #### Android
 
-`yarn react-native run-android`
+`yarn android`
